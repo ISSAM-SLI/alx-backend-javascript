@@ -57,7 +57,4 @@ class StudentClass implements StudentClassInterface {
       return 'Currently working';
   }
 
-  displayName(): string {
-      return this.firstName;
-  }
 }
